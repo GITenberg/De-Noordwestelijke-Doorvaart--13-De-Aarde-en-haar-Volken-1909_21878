@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1189
     wikipedia: http://en.wikipedia.org/wiki/Roald_Amundsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21878#De-Noordwestelijke-Doorvaart--13-De-Aarde-en-haar-Volken-1909
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2007-06-20'
 gutenberg_type: Text
